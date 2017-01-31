@@ -1,4 +1,4 @@
-# Nfl Db:
+# NFL Database:
 	
 There are around 1,696 players in the NFL; each and everyone of those players are assigned to a team. There are 32 teams, and each team is assigned to a division and a conference. Each team also has an owner.
 
