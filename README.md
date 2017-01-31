@@ -11,7 +11,7 @@ Top 20 offensive players, based on overall yardage, in the following positions w
 
 * Top 10 defensive players based off number of sacks were selected.
 * Top 10 defensive players based off number of interceptions were selected.
-* Statistics are up to date as of the final week 13 Monday night game.
+* Statistics are up to date as of the final week 13 Monday night game of the 2016 season.
 
 # ERD
 
