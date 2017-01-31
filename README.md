@@ -25,11 +25,11 @@ The team table will include a team name and city. Each team has a city it's assi
 
 ### Team Stats -
 	
-Team stats table will consist of stats that each team produces, such as: wins/losses, passing yards, and rushing yards.  Team stats table will have a one to many relationship with our teams table. This is due to the fact that one entity of stats is related to many teams. This makes it a one to many relationship. 
+Team stats table will consist of stats that each team produces, such as: wins/losses, passing yards, and rushing yards.  Team stats table will have a one to many relationship with the teams table. This is due to the fact that one entity of stats is related to many teams. This makes it a one to many relationship. 
 
 ### Division -
 	
-Division table will be a representation of all the divisions in the NFL along with each team in each division. The NFL has 8 divisions within two conferences:AFC North, AFC South, AFC East, AFC West, NFC North, NFC South, NFC East, NFC West. The division table and our team table has a one to many relationship. This is due to the fact that there are 4 teams in each division and each team is associated to one division. 
+Division table will be a representation of all the divisions in the NFL along with each team in each division. The NFL has 8 divisions within two conferences:AFC North, AFC South, AFC East, AFC West, NFC North, NFC South, NFC East, NFC West. The division table and the team table has a one to many relationship. This is due to the fact that there are 4 teams in each division and each team is associated to one division. 
 
 ### Player -
 	
