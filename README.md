@@ -1,6 +1,6 @@
 # NFL Database:
 	
-There are around 1,696 players in the NFL; each and everyone of those players are assigned to a team. There are 32 teams, and each team is assigned to a division and a conference. Each team also has an owner.
+There are around 1,696 players in the NFL; each and every one of those players is assigned to a team. There are 32 teams, and each team is assigned to a division and a conference. Each team also has an owner.
 
 The purpose of this database is to store the statistics of teams and players in the NFL. Having these statistics in a database will allow for careful examination of different aspects of players and teams. Querying and data manipulation of these statistics and data will allow insight and conclusions about various statistical aspects of the NFL. 
 
